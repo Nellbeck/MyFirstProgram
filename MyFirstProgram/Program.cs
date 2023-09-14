@@ -23,7 +23,7 @@ Console.WriteLine($"Hej {Name}!"); // Asks the user to type in their name and th
 Console.WriteLine(); // Just to get some free space between the lines in the console.
 
 int LoopNumber = 0;
-while (LoopNumber < 7) 
+while (LoopNumber < Number) 
 {
     Console.WriteLine(LoopNumber);
     LoopNumber++;
